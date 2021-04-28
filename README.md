@@ -1,2 +1,2 @@
-# FullStackProject1
-first full stack project
+# Learn Full Stack Development
+Use this repository to learn Full Stack Development
